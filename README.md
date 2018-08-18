@@ -42,6 +42,13 @@
 
 # New Features
 
+### NtrQQ 5.0.2
+- 修复 兼容 QQ9.0.5
+- 修复 高级探测功能
+- 优化 默认高精度IP查询点显示运营商信息
+- 优化 被部分杀软误报的问题
+- 更新 QQ版本号数据库至 2018-08-18
+
 ### NtrQQ 5.0.1
 - 修复 兼容 QQ9.0.4
 - 修复 好友关系分析
@@ -62,7 +69,7 @@
 # Release Info
 
 >Lance.Moe
->2018-06-24 (_Tokyo time_ zone)
->In Itabashi-ku, Tokyo, Japan
+>2018-08-18 (_Beijing time_ zone)
+>In Xuzhou, Jiangsu, China
 
 BBS.NTRQQ.NET
