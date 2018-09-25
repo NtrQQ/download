@@ -3,7 +3,7 @@
 
 `NtrQQ`是一款为`QQ PC版`打造的一款集显IP、去广告、功能增强等功能于一体的辅助插件，使用`NtrQQ`可以让你的`PCQQ`更实用、更好用。
 - 本软件是作者业余时间制作，由于作者平时较长时间都是在学校度过，很少上网，如果更新速度变慢，请大家不用着急。
-- 欢迎进入社区（bbs.ntrqq.net），或添加交流群（①135807262、②2915042），与其他志同道合的朋友交流使用心得。
+- 欢迎进入[社区(bbs.ntrqq.net)](https://bbs.ntrqq.net/)，或添加交流群(`①135807262`、`②2915042`)，与其他志同道合的朋友交流使用心得。
 
 # License
 
@@ -23,22 +23,22 @@
 下列文件是本插件的相关文件及说明：
 - QQ/bin/HummerEngine.dll（**必须**，程序载入点）
 - QQ/bin/NtrQQ/
-- - NtrQQ/NtrQQ.dll（**必须**，本插件主程序）
-- - NtrQQ/NtrQQ.ini（**必须**，本插件主配置文件）
-- - NtrQQ/Plugin.ini（**必须**，QQ插件管理配置文件）
-- - NtrQQ/Version.ini（**必须**，QQ版本号数据配置文件）
-- - NtrQQ/Verify.ini（可选，本插件高级功能验证配置文件）
-- - NtrQQ/ShowIP.exe（可选，纯真IP数据库管理器）
-- - NtrQQ/qqwry.dat（可选，纯真IP数据库文件）
-- - NtrQQ/location.loc（可选，LoCi格式IP数据库文件）
+    - NtrQQ/NtrQQ.dll（**必须**，本插件主程序）
+    - NtrQQ/NtrQQ.ini（**必须**，本插件主配置文件）
+    - NtrQQ/Plugin.ini（**必须**，QQ插件管理配置文件）
+    - NtrQQ/Version.ini（**必须**，QQ版本号数据配置文件）
+    - NtrQQ/Verify.ini（可选，本插件高级功能验证配置文件）
+    - NtrQQ/ShowIP.exe（可选，纯真IP数据库管理器）
+    - NtrQQ/qqwry.dat（可选，纯真IP数据库文件）
+    - NtrQQ/location.loc（可选，LoCi格式IP数据库文件）
 
 ### 高级功能开启方法
-- 用记事本打开`NtrQQ/Verify.ini`配置文件
-- 在`[NTRQQ]`节的`UID=`后，输入您的论坛ID（数字）
-- 打开网页 https://bbs.ntrqq.net/md5.html
-- 输入您的论坛登陆密码，点击计算
-- 在`[NTRQQ]`节的`PWD=`后，复制刚才计算出的MD5值
-- 重启QQ后随意打开一个好友的聊天窗口，在窗口边框处右击即可看到高级功能的菜单
+1. 用记事本打开`NtrQQ/Verify.ini`配置文件
+2. 在`[NTRQQ]`节的`UID=`后，输入您的论坛ID（数字）
+3. 打开网页 https://bbs.ntrqq.net/md5.html
+4. 输入您的论坛登陆密码，点击计算
+5. 在`[NTRQQ]`节的`PWD=`后，复制刚才计算出的MD5值
+6. 重启QQ后随意打开一个好友的聊天窗口，在窗口边框处右击即可看到高级功能的菜单
 
 # New Features
 
@@ -68,8 +68,8 @@
 
 # Release Info
 
->Lance.Moe
->2018-08-18 (_Beijing time_ zone)
->In Xuzhou, Jiangsu, China
-
+>Lance.Moe  
+>2018-08-18 (_Beijing time_ zone)  
+>In Xuzhou, Jiangsu, China  
+  
 BBS.NTRQQ.NET
