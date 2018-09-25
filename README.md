@@ -17,7 +17,7 @@
 # Setup
 
 ### 安装说明
-请将QQ原版Bin目录下的的HummerEngine.dll**改名**为`HummerEngineBase.dll`再将本插件的下述文件**放入**
+请将QQ原版`Bin(目录)`下的`HummerEngine.dll`**改名**为`HummerEngineBase.dll`再将本插件的下述文件**放入**
 
 ### 文件介绍
 下列文件是本插件的相关文件及说明：
