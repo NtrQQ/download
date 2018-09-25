@@ -68,7 +68,7 @@
 
 # Release Info
 
->Lance.Moe  
+>[Lance.Moe](https://www.lance.moe/)  
 >2018-08-18 (_Beijing time_ zone)  
 >In Xuzhou, Jiangsu, China  
   
