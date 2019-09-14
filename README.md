@@ -42,6 +42,12 @@
 - 重启QQ后随意打开一个好友的聊天窗口，在窗口边框处右击即可看到高级功能的菜单
 
 # New Features
+### NtrQQ 6.1.0
+- 兼容 QQ9.1.6 或更高版本(更旧版本不再兼容)
+- 兼容 Win7/8.1/10 或更高系统(不再兼容 XP)
+- 修复 老板键(默认快捷键Ctrl+Q)
+- 删除 网络过滤功能
+- 更新 QQ版本号数据库至 2019-09-14
 
 ### NtrQQ 6.0.0
 - 兼容 QQ9.1.6 或更高版本(更旧版本不再兼容)
@@ -86,11 +92,9 @@
 
 # Release Info
 
->Lance.Moe
->2019-09-13 (_Tokyo time_ zone)
->In Itabashi, Tokyo, Japan
->Happy mid-Autumn Festival
+>Lance.Moe  
+>2019-09-14 (_Tokyo time_ zone)  
+>In Itabashi, Tokyo, Japan  
+>Happy mid-Autumn Festival  
 
-
-  
-[IYA.APP](https://iya.app/)
+IYA.APP
