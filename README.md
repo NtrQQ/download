@@ -22,7 +22,7 @@
 
 ### 文件介绍
 下列文件是本插件的相关文件及说明：
-- QQ/bin/Version.dll（**必须**，程序载入点）
+- QQ/bin/winmm.dll（**必须**，程序载入点）
 - QQ/bin/NtrQQ/
 - - NtrQQ/NtrQQ.dll（**必须**，本插件主程序）
 - - NtrQQ/NtrQQ.ini（**必须**，本插件主配置文件）
@@ -93,7 +93,7 @@
 # Release Info
 
 >Lance.Moe  
->2019-09-14 (_Tokyo time_ zone)  
+>2019-09-16 (_Tokyo time_ zone)  
 >In Itabashi, Tokyo, Japan  
 >Happy mid-Autumn Festival  
 
