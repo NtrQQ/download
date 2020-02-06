@@ -3,7 +3,7 @@
 
 `NtrQQ`是一款为`QQ PC版`打造的一款集显IP、去广告、功能增强等功能于一体的辅助插件，使用`NtrQQ`可以让你的`PCQQ`更实用、更好用。
 - 本软件是作者业余时间制作，由于作者平时较长时间都是在学校度过，很少上网，如果更新速度变慢，请大家不用着急。
-- 欢迎进入社区（iya.app），或添加交流群（①135807262），与其他志同道合的朋友交流使用心得。
+- 欢迎进入社区（iya.app）以及[电报群](http://bit.ly/2IgAcvP)，与其他志同道合的朋友交流使用心得。
 
 # License
 
@@ -42,6 +42,13 @@
 - 重启QQ后随意打开一个好友的聊天窗口，在窗口边框处右击即可看到高级功能的菜单
 
 # New Features
+### NtrQQ 6.2.0
+- 兼容 QQ9.2.3 (暂未适配去校验补丁请自行解决)
+- 兼容 WinXP 或更高系统(感谢VC-LTL项目)
+- 修复 高级探测功能失效的问题
+- 修复 网络IP库获取失败的问题
+- 更新 QQ版本号数据库至 2020-02-06
+
 ### NtrQQ 6.1.0
 - 兼容 QQ9.1.6 或更高版本(更旧版本不再兼容)
 - 兼容 Win7/8.1/10 或更高系统(不再兼容 XP)
@@ -93,8 +100,8 @@
 # Release Info
 
 >Lance.Moe  
->2019-09-16 (_Tokyo time_ zone)  
+>2020-02-06 (_Tokyo time_ zone)  
 >In Itabashi, Tokyo, Japan  
->Happy mid-Autumn Festival  
+>May he rest in peace.  
 
 IYA.APP
